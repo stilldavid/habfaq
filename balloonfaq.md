@@ -1,4 +1,4 @@
-You saw the pictures online, the video on your local news or the commercial on the television. Whatever spurred it on, you think you want to launch a weather balloon to near-space - for the photos, video or just to do it. It can be a daunting and difficult looking task at the outset. I'm here to tell you that with a little work, a little research and a bit of luck you can certainly launch a balloon payload to ~100,000 feet and recover it! Read on for more information on how to get pictures like this:
+You saw the pictures online, the video on your local news or the commercial on the television. Whatever spurred it on, you want to launch a weather balloon to near-space - for the photos, video or just to do it. It can be a daunting and difficult looking task at the outset. I'm here to tell you that with a little work, a little research and a bit of luck you can certainly launch a balloon payload to ~100,000 feet and recover it! Read on for more information on how to get pictures like this:
 
 ![Space](http://farm5.staticflickr.com/4044/4624098425_eacdbba833.jpg)
 
@@ -31,7 +31,7 @@ While this is a fairly extensive guide, it's by no means exhaustive. Please use 
 ## Is This Even Legal?
 Great first question. The answer is: yes, completely! But of course there's some fine print.
 
-If you happen to be in the US, we're dealing with "unmanned free balloons" according to the FAA as per the Federal Aviation Regulations. These are covered under <a href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=14:2.0.1.3.15&amp;idno=14" target="_blank">FAR part 101</a>, which I <em>highly</em> encourage you to at least glance over before thinking about a launch. The <a href="http://www.eoss.org">EOSS guys</a> have a great <a href="http://www.eoss.org/pubs/far_annotated.htm">version with annotations</a> as well.  The important part is subpart 1, the applicability of the regulations. If you don't meet any specifications in that section, you are considered exempt and need no waivers or announcements for launch. The gist of it says that you can't:
+If you happen to be in the US, we're dealing with "unmanned free balloons" according to the FAA as per the Federal Aviation Regulations. These are covered under [FAR part 101](http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=14:2.0.1.3.15&amp;idno=14), which I _highly_ encourage you to at least glance over before thinking about a launch. The [EOSS guys](http://www.eoss.org) have a great [version with annotations](http://www.eoss.org/pubs/far_annotated.htm) as well.  The important part is subpart 1, the applicability of the regulations. If you don't meet any specifications in that section, you are considered exempt and need no waivers or announcements for launch. The gist of it says that you can't:
 
 * Have a balloon larger than 6 feet in diameter
 * Have a combined payload weighing more than 12 pounds
@@ -59,4 +59,13 @@ Many people find surplus balloons on eBay and the like, but I can't vouch for th
 Balloons are categorized based on their weight. The most popular sizes are 800-1500 grams. See the specifications for your particular balloon to determine how much to fill it at launch.
 
 ## The Gas
-In order for the balloon to rise at all, it needs to be filled with a [lighter than air gas](http://en.wikipedia.org/wiki/Lighter_than_air). Traditionally, helium is used as it is completely inert and fairly safe if handled properly.
+In order for the balloon to rise at all, it needs to be filled with a [lighter than air gas](http://en.wikipedia.org/wiki/Lighter_than_air). Traditionally, helium is used as it is completely inert and fairly safe if handled properly - I highly recommend helium for your first launch.
+
+The other option is Hydrogen. Many folks prefer hydrogen, as in practice it is slightly less dense than helium and provides greater lift. In addition, it is much cheaper than helium, sometimes less than a third the cost. Naturally, there is a drawback, and it's a doozy: it's highly flammable. Extreme caution must be used when working with hydrogen, especially during filling, as a stray spark could set the whole thing ablaze. Again, I highly recommend helium for your launch.
+
+Working with helium isn't nearly as dangerous. As with any compressed gas, care needs to be taken while transporting and working with the tank, but the risk of an explosion or fire is minimal.
+
+## Recovery System (Parachute)
+After the balloon bursts, the payload will start falling to the ground. In the upper atmosphere there is little air to resist the falling, and it can reach speeds well over a hundred miles per hour. As it falls closer to earth, it will need something to slow it down on the descent so it doesn't make a small crater on impact.
+
+I use a four foot parachute from [The Rocketman](http://the-rocketman.com/recovery.html). There are many places online to find simple nylon parachutes, including ebay and surplus stores, but again I prefer to buy new so I know the expected properties of what I'm working with. Parachute selection isn't totally crucial, just make sure you get an adequate sized chute for your payload mass.
