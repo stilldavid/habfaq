@@ -1,0 +1,13 @@
+body {
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  font-size: 14px;
+}
+
+#site {
+  margin: 0 auto;
+  width: 650px;
+}
+
+p, li {
+  line-height: 1.5em;
+}

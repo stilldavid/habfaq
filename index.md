@@ -1,3 +1,8 @@
+---
+layout: home
+title: HAB FAQ
+---
+
 You saw the pictures online, the video on your local news or the commercial on the television. Whatever spurred it on, you want to launch a weather balloon to near-space - for the photos, video or just to do it. It can be a daunting and difficult looking task at the outset. I'm here to tell you that with a little work, a little research and a bit of luck you can certainly launch a balloon payload to ~100,000 feet and recover it! Read on for more information on how to get pictures like this:
 
 ![Space](http://farm5.staticflickr.com/4044/4624098425_eacdbba833.jpg)
@@ -10,6 +15,7 @@ It's a great hobby and I encourage anyone with interest to pursue even a simple 
 While this is a fairly extensive guide, it's by no means exhaustive. Please use it as a starting point and do your own research. If you have any questions, don't hesitate to ask me, a mailing list, IRC, or any other resource you find. We're a nerdy bunch, but friendly to be sure. Don't be afraid to ask questions!
 
 # Sections
+
 * Is This Even Legal?
 * The Balloon
 * The Gas
@@ -27,7 +33,7 @@ While this is a fairly extensive guide, it's by no means exhaustive. Please use 
   * Video
 * Miscellany
   * Doesn't it get, like, cold?
-  
+
 ## Is This Even Legal?
 Great first question. The answer is: yes, completely! But of course there's some fine print.
 
@@ -49,6 +55,8 @@ If you are outside the US, please look up your local regulations.
 
 Please do your research and be aware - let's keep this hobby safe and sane!
 
+[top ↩](#)
+
 ## The Balloon
 In the US, weather balloons are used by the National Weather Service, each with what are called radiosondes attached to them. They are used to model and predict weather patters, and are generally [launched twice daily](http://www.wrh.noaa.gov/rev/tour/UA/introduction.php) from over 100 locations all over the US.
 
@@ -58,6 +66,8 @@ Many people find surplus balloons on eBay and the like, but I can't vouch for th
 
 Balloons are categorized based on their weight. The most popular sizes are 800-1500 grams. See the specifications for your particular balloon to determine how much to fill it at launch.
 
+[top ↩](#)
+
 ## The Gas
 In order for the balloon to rise at all, it needs to be filled with a [lighter than air gas](http://en.wikipedia.org/wiki/Lighter_than_air). Traditionally, helium is used as it is completely inert and fairly safe if handled properly - I highly recommend helium for your first launch.
 
@@ -65,7 +75,11 @@ The other option is Hydrogen. Many folks prefer hydrogen, as in practice it is s
 
 Working with helium isn't nearly as dangerous. As with any compressed gas, care needs to be taken while transporting and working with the tank, but the risk of an explosion or fire is minimal.
 
+[top ↩](#)
+
 ## Recovery System (Parachute)
 After the balloon bursts, the payload will start falling to the ground. In the upper atmosphere there is little air to resist the falling, and it can reach speeds well over a hundred miles per hour. As it falls closer to earth, it will need something to slow it down on the descent so it doesn't make a small crater on impact.
 
 I use a four foot parachute from [The Rocketman](http://the-rocketman.com/recovery.html). There are many places online to find simple nylon parachutes, including ebay and surplus stores, but again I prefer to buy new so I know the expected properties of what I'm working with. Parachute selection isn't totally crucial, just make sure you get an adequate sized chute for your payload mass.
+
+[top ↩](#)
