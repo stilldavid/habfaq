@@ -1,6 +1,6 @@
 body {
-  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: 'Lato', 'Helvetica Neue', helvetica, arial, sans-serif;
+  font-size: 15px;
 }
 
 #site {
@@ -9,5 +9,9 @@ body {
 }
 
 p, li {
-  line-height: 1.5em;
+  line-height: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
 }
